@@ -3,11 +3,6 @@ title: "Hello Ta"
 output: github_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-
 ```{r}
 Hello TA!
 library(tidyverse)
