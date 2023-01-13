@@ -1,0 +1,11 @@
+---
+title: "Hello Ta!"
+output: github_document
+---
+
+Hello-ta
+
+```{r}
+library(tidyverse)
+library(igraph)
+```
